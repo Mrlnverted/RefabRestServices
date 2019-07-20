@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Gon
+Build-Jdk: 11.0.3
+Implementation-Title: Refab
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: refab
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Refab
+Created-By: Maven Integration for Eclipse
+
